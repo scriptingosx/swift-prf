@@ -10,7 +10,7 @@
 # - staple the pkg
 
 # more detail here:
-# https://scriptingosx.com
+# https://scriptingosx.com/2023/08/build-a-notarized-package-with-a-swift-package-manager-executable/
 
 # by Armin Briegel - Scripting OS X
 
